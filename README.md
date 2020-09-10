@@ -3,7 +3,8 @@
 ## Simple Storage Solution
 
 This is a demo of setting up an Amazon Web Service (AWS) S3 bucket and uploading a file with Python.
-Refer to the python files within this repository to see some code snippets!
+
+Refer to the [Code Examples](/code-examples) within this repository!!
 
 ## Setting Up Bucket
 
